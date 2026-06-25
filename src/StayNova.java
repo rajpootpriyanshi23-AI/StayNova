@@ -10,7 +10,7 @@ class Room {
     }
 }
 
-public class Main {
+public class StayNova {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
