@@ -1,5 +1,5 @@
 # StayNova
-My third CodeAlpha project
+
 # Hotel Reservation System
 
 A Java console application for managing hotel room bookings and cancellations.
